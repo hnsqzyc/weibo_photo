@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2fbb2f9-a1ac-407a-a90b-627beae60827" name="script253" url="http://120.92.105.253">
+        <fileTransfer host="120.92.105.253" port="12345" rootFolder="/home/tomcat/project_test/bjh_new_env/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="12345" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
